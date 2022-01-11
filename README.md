@@ -11,10 +11,10 @@ A website that offers fitness training services.
 
 ## Website
 
-https://lernantino.github.io/run-buddy/
+https://srgiovanni.github.io/run-buddy/
 
 ## Contribution
 
 Made with ❤️ by John
 
-### ©️2019 Run Buddy, Inc 
+### ©️2019 Run Buddy, Inc
